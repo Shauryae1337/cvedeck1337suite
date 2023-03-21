@@ -1,0 +1,1 @@
+sudo cp cvedeck /bin
